@@ -44,6 +44,6 @@ The primary focus of this analysis includes:
 The Google Play Store is a dynamic ecosystem with diverse offerings. As demonstrated by the findings, user feedback and app quality play pivotal roles in determining an app's success. While categories like 'Entertainment' and 'Game' are leading in popularity, it's clear that niche categories also have their dedicated, satisfied audience. As the Android market continues to expand, these insights will prove invaluable for app developers and marketers looking to make their mark.
 
 
-You can view my notebook [here](https://nbviewer.org/github/sherniia/Google-Play-Store-App-EDA-Project/blob/main/Google_apps_EDA_1.ipynb)
+You can view my notebook and visualizations [here](https://nbviewer.org/github/sherniia/Google-Play-Store-App-EDA-Project/blob/main/Google_apps_EDA_1.ipynb). 
 
 
